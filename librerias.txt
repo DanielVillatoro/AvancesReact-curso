@@ -1,0 +1,5 @@
+Librerias:
+
+>npm install --save-dev @testing-library/jest-dom
+>npm i enzyme-to-json
+>i --save-dev enzyme enzyme-adapt		--EN EL ROOT DEL PROYECTO
